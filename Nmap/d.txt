@@ -1,0 +1,8 @@
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2014-10-01 23:31 EEST
+Nmap scan report for dsldevice.Home (192.168.1.1)
+Host is up (0.013s latency).
+All 40 scanned ports on dsldevice.Home (192.168.1.1) are closed
+MAC Address: B0:B2:DC:F6:C5:3A (Zyxel Communications)
+
+Nmap done: 1 IP address (1 host up) scanned in 1.51 seconds
